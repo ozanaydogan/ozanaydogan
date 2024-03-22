@@ -1,4 +1,4 @@
 
 
--  JAVA, SpringBoot, Spring framework, React-Reactjs, Angular, TypeScript, HTML, CSS, Bootstrap, ASP.NET MVC, SQL, MySQL,DB2, ORACLE
-ow to reach me: ... ozanaydogan1@hotmail.com, ozanaydogankou@gmail.com
+-  JAVA, SpringBoot, Spring framework, PL-SQL , ORACLE , SQL,  React-Reactjs, Angular, javascript, TypeScript, HTML, CSS, Bootstrap, ASP.NET MVC,
+How to reach me: ... ozanaydogan1@hotmail.com, ozanaydogankou@gmail.com
